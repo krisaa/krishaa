@@ -1,0 +1,6 @@
+l=input('enter length')
+b=input('enter breadth')
+area =int(l)*int (b)
+perimeter=2*(int(l)+int(b))
+print (area )
+print (perimeter)
