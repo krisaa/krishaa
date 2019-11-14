@@ -1,3 +1,6 @@
+#this is test message for git purpose
+
+
 dict={'rollno':[1,2,3,4], 'name':['subash','aakash','susma']}
 roll=dict['rollno']
 nam=dict['name']
